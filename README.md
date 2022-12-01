@@ -3,6 +3,7 @@ SleepHelper AI를 위한 repository
 
 ## 서버 폴더
 1. ANNPredict.py, SleepHelper1.h5: AI 모델과 예측 프로그램. ServerTest.java에서 사용됨. 
+
    (ANNPredict.py가 성능 향상된 버전이 ANNPredictTestSpeedup.py)
 2. ANNPredictTest.ipynb: local에서 AI 잘 돌아가는지 테스트하기 위한 프로그램.
 3. MainActivity.kt: 안드로이드에서 서버 통신 잘 되는지 확인하기 위한 코틀린 클래스.
